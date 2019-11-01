@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Color_Guessing_Game
+//  ColorGuessingGame
 //
-//  Created by Juan Ceballos on 10/30/19.
+//  Created by Juan Ceballos on 10/31/19.
 //  Copyright © 2019 Juan Ceballos. All rights reserved.
 //
 

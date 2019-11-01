@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3E60E809236A1D6000076417 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E60E808236A1D6000076417 /* AppDelegate.swift */; };
-		3E60E80B236A1D6000076417 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E60E80A236A1D6000076417 /* SceneDelegate.swift */; };
-		3E60E80D236A1D6000076417 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E60E80C236A1D6000076417 /* ViewController.swift */; };
-		3E60E810236A1D6000076417 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E60E80E236A1D6000076417 /* Main.storyboard */; };
-		3E60E812236A1D6100076417 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E60E811236A1D6100076417 /* Assets.xcassets */; };
-		3E60E815236A1D6100076417 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E60E813236A1D6100076417 /* LaunchScreen.storyboard */; };
-		3E60E81D236A1F7E00076417 /* Color_Guessing_Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E60E81C236A1F7E00076417 /* Color_Guessing_Game.swift */; };
+		3E117A3A236BCCAC00D9E7E4 /* ColorGuessingGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E117A39236BCCAB00D9E7E4 /* ColorGuessingGame.swift */; };
+		3E970022236BC79E0010A2E1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E970021236BC79E0010A2E1 /* AppDelegate.swift */; };
+		3E970024236BC79E0010A2E1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E970023236BC79E0010A2E1 /* SceneDelegate.swift */; };
+		3E970026236BC79E0010A2E1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E970025236BC79E0010A2E1 /* ViewController.swift */; };
+		3E970029236BC79E0010A2E1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E970027236BC79E0010A2E1 /* Main.storyboard */; };
+		3E97002B236BC7A00010A2E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E97002A236BC7A00010A2E1 /* Assets.xcassets */; };
+		3E97002E236BC7A00010A2E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E97002C236BC7A00010A2E1 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3E60E805236A1D6000076417 /* Color_Guessing_Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Color_Guessing_Game.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		3E60E808236A1D6000076417 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3E60E80A236A1D6000076417 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		3E60E80C236A1D6000076417 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		3E60E80F236A1D6000076417 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3E60E811236A1D6100076417 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		3E60E814236A1D6100076417 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		3E60E816236A1D6100076417 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3E60E81C236A1F7E00076417 /* Color_Guessing_Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color_Guessing_Game.swift; sourceTree = "<group>"; };
+		3E117A39236BCCAB00D9E7E4 /* ColorGuessingGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorGuessingGame.swift; sourceTree = "<group>"; };
+		3E97001E236BC79E0010A2E1 /* ColorGuessingGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorGuessingGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3E970021236BC79E0010A2E1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3E970023236BC79E0010A2E1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		3E970025236BC79E0010A2E1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3E970028236BC79E0010A2E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3E97002A236BC7A00010A2E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3E97002D236BC7A00010A2E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3E97002F236BC7A00010A2E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3E60E802236A1D6000076417 /* Frameworks */ = {
+		3E97001B236BC79E0010A2E1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,73 +39,73 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3E60E7FC236A1D6000076417 = {
+		3E970015236BC79E0010A2E1 = {
 			isa = PBXGroup;
 			children = (
-				3E60E807236A1D6000076417 /* Color_Guessing_Game */,
-				3E60E806236A1D6000076417 /* Products */,
+				3E970020236BC79E0010A2E1 /* ColorGuessingGame */,
+				3E97001F236BC79E0010A2E1 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3E60E806236A1D6000076417 /* Products */ = {
+		3E97001F236BC79E0010A2E1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3E60E805236A1D6000076417 /* Color_Guessing_Game.app */,
+				3E97001E236BC79E0010A2E1 /* ColorGuessingGame.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3E60E807236A1D6000076417 /* Color_Guessing_Game */ = {
+		3E970020236BC79E0010A2E1 /* ColorGuessingGame */ = {
 			isa = PBXGroup;
 			children = (
-				3E60E808236A1D6000076417 /* AppDelegate.swift */,
-				3E60E80A236A1D6000076417 /* SceneDelegate.swift */,
-				3E60E80C236A1D6000076417 /* ViewController.swift */,
-				3E60E80E236A1D6000076417 /* Main.storyboard */,
-				3E60E811236A1D6100076417 /* Assets.xcassets */,
-				3E60E81C236A1F7E00076417 /* Color_Guessing_Game.swift */,
-				3E60E813236A1D6100076417 /* LaunchScreen.storyboard */,
-				3E60E816236A1D6100076417 /* Info.plist */,
+				3E970021236BC79E0010A2E1 /* AppDelegate.swift */,
+				3E970023236BC79E0010A2E1 /* SceneDelegate.swift */,
+				3E970025236BC79E0010A2E1 /* ViewController.swift */,
+				3E970027236BC79E0010A2E1 /* Main.storyboard */,
+				3E117A39236BCCAB00D9E7E4 /* ColorGuessingGame.swift */,
+				3E97002A236BC7A00010A2E1 /* Assets.xcassets */,
+				3E97002C236BC7A00010A2E1 /* LaunchScreen.storyboard */,
+				3E97002F236BC7A00010A2E1 /* Info.plist */,
 			);
-			path = Color_Guessing_Game;
+			path = ColorGuessingGame;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3E60E804236A1D6000076417 /* Color_Guessing_Game */ = {
+		3E97001D236BC79E0010A2E1 /* ColorGuessingGame */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3E60E819236A1D6100076417 /* Build configuration list for PBXNativeTarget "Color_Guessing_Game" */;
+			buildConfigurationList = 3E970032236BC7A00010A2E1 /* Build configuration list for PBXNativeTarget "ColorGuessingGame" */;
 			buildPhases = (
-				3E60E801236A1D6000076417 /* Sources */,
-				3E60E802236A1D6000076417 /* Frameworks */,
-				3E60E803236A1D6000076417 /* Resources */,
+				3E97001A236BC79E0010A2E1 /* Sources */,
+				3E97001B236BC79E0010A2E1 /* Frameworks */,
+				3E97001C236BC79E0010A2E1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = Color_Guessing_Game;
-			productName = Color_Guessing_Game;
-			productReference = 3E60E805236A1D6000076417 /* Color_Guessing_Game.app */;
+			name = ColorGuessingGame;
+			productName = ColorGuessingGame;
+			productReference = 3E97001E236BC79E0010A2E1 /* ColorGuessingGame.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3E60E7FD236A1D6000076417 /* Project object */ = {
+		3E970016236BC79E0010A2E1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
 				ORGANIZATIONNAME = "Juan Ceballos";
 				TargetAttributes = {
-					3E60E804236A1D6000076417 = {
+					3E97001D236BC79E0010A2E1 = {
 						CreatedOnToolsVersion = 11.0;
 					};
 				};
 			};
-			buildConfigurationList = 3E60E800236A1D6000076417 /* Build configuration list for PBXProject "Color_Guessing_Game" */;
+			buildConfigurationList = 3E970019236BC79E0010A2E1 /* Build configuration list for PBXProject "ColorGuessingGame" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,56 +113,56 @@
 				en,
 				Base,
 			);
-			mainGroup = 3E60E7FC236A1D6000076417;
-			productRefGroup = 3E60E806236A1D6000076417 /* Products */;
+			mainGroup = 3E970015236BC79E0010A2E1;
+			productRefGroup = 3E97001F236BC79E0010A2E1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3E60E804236A1D6000076417 /* Color_Guessing_Game */,
+				3E97001D236BC79E0010A2E1 /* ColorGuessingGame */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3E60E803236A1D6000076417 /* Resources */ = {
+		3E97001C236BC79E0010A2E1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3E60E815236A1D6100076417 /* LaunchScreen.storyboard in Resources */,
-				3E60E812236A1D6100076417 /* Assets.xcassets in Resources */,
-				3E60E810236A1D6000076417 /* Main.storyboard in Resources */,
+				3E97002E236BC7A00010A2E1 /* LaunchScreen.storyboard in Resources */,
+				3E97002B236BC7A00010A2E1 /* Assets.xcassets in Resources */,
+				3E970029236BC79E0010A2E1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3E60E801236A1D6000076417 /* Sources */ = {
+		3E97001A236BC79E0010A2E1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3E60E81D236A1F7E00076417 /* Color_Guessing_Game.swift in Sources */,
-				3E60E80D236A1D6000076417 /* ViewController.swift in Sources */,
-				3E60E809236A1D6000076417 /* AppDelegate.swift in Sources */,
-				3E60E80B236A1D6000076417 /* SceneDelegate.swift in Sources */,
+				3E117A3A236BCCAC00D9E7E4 /* ColorGuessingGame.swift in Sources */,
+				3E970026236BC79E0010A2E1 /* ViewController.swift in Sources */,
+				3E970022236BC79E0010A2E1 /* AppDelegate.swift in Sources */,
+				3E970024236BC79E0010A2E1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		3E60E80E236A1D6000076417 /* Main.storyboard */ = {
+		3E970027236BC79E0010A2E1 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3E60E80F236A1D6000076417 /* Base */,
+				3E970028236BC79E0010A2E1 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		3E60E813236A1D6100076417 /* LaunchScreen.storyboard */ = {
+		3E97002C236BC7A00010A2E1 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3E60E814236A1D6100076417 /* Base */,
+				3E97002D236BC7A00010A2E1 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +170,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		3E60E817236A1D6100076417 /* Debug */ = {
+		3E970030236BC7A00010A2E1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +230,7 @@
 			};
 			name = Debug;
 		};
-		3E60E818236A1D6100076417 /* Release */ = {
+		3E970031236BC7A00010A2E1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -284,36 +284,36 @@
 			};
 			name = Release;
 		};
-		3E60E81A236A1D6100076417 /* Debug */ = {
+		3E970033236BC7A00010A2E1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6UA5RNM528;
-				INFOPLIST_FILE = Color_Guessing_Game/Info.plist;
+				INFOPLIST_FILE = ColorGuessingGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.pursuit.Color-Guessing-Game";
+				PRODUCT_BUNDLE_IDENTIFIER = org.pursuit.ColorGuessingGame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		3E60E81B236A1D6100076417 /* Release */ = {
+		3E970034236BC7A00010A2E1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6UA5RNM528;
-				INFOPLIST_FILE = Color_Guessing_Game/Info.plist;
+				INFOPLIST_FILE = ColorGuessingGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.pursuit.Color-Guessing-Game";
+				PRODUCT_BUNDLE_IDENTIFIER = org.pursuit.ColorGuessingGame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -323,25 +323,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3E60E800236A1D6000076417 /* Build configuration list for PBXProject "Color_Guessing_Game" */ = {
+		3E970019236BC79E0010A2E1 /* Build configuration list for PBXProject "ColorGuessingGame" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3E60E817236A1D6100076417 /* Debug */,
-				3E60E818236A1D6100076417 /* Release */,
+				3E970030236BC7A00010A2E1 /* Debug */,
+				3E970031236BC7A00010A2E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3E60E819236A1D6100076417 /* Build configuration list for PBXNativeTarget "Color_Guessing_Game" */ = {
+		3E970032236BC7A00010A2E1 /* Build configuration list for PBXNativeTarget "ColorGuessingGame" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3E60E81A236A1D6100076417 /* Debug */,
-				3E60E81B236A1D6100076417 /* Release */,
+				3E970033236BC7A00010A2E1 /* Debug */,
+				3E970034236BC7A00010A2E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3E60E7FD236A1D6000076417 /* Project object */;
+	rootObject = 3E970016236BC79E0010A2E1 /* Project object */;
 }
